@@ -1,5 +1,5 @@
 # 240702HW4
-my 240702HW4 
+A stock market simulation APP
 
 240702個人專題作業4，內容為股票交易模擬APP<br>
 
